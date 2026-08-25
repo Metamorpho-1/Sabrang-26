@@ -523,7 +523,7 @@ export const DEV_TEAM: DevTeamMember[] = [
   },
   {
     name: "Lakshya Gupta",
-    avatar: "https://res.cloudinary.com/eprhemvt/image/upload/f_auto,q_auto/v1787060385/sabrang-2026/tech-team-credit/Lakshya.png",
+    avatar: "/lakshya.jpg",
     linkedin: "https://www.linkedin.com/in/lakshya-gupta-b87616370/",
     github: "https://github.com/Metamorpho-1",
     email: "lakshyagupta@jklu.edu.in",
